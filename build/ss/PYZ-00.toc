@@ -1,4 +1,4 @@
-('/Users/nurxanmasimzade/Desktop/Prod-YoutubeVideoDownloaderWithPython/build/ss/PYZ-00.pyz',
+('/Users/nurxanmasimzade/Desktop/YoutubeVideoDownloaderWithPython/build/ss/PYZ-00.pyz',
  [('_compat_pickle',
    '/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/_compat_pickle.py',
    'PYMODULE'),
