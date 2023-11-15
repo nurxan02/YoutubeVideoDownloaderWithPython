@@ -1,7 +1,6 @@
 import tkinter as tk
 from tkinter import messagebox, filedialog
 from pytube import YouTube
-messagebox.showinfo("Info", "Don't worry about terminal! This is only LOG ))")
 def download_video():
     url = entry.get()
     resolution = resolution_var.get()
