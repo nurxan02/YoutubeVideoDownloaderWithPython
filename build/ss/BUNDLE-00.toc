@@ -1,0 +1,3 @@
+([('ss',
+   '/Users/nurxanmasimzade/Desktop/Prod-YoutubeVideoDownloaderWithPython/dist/ss',
+   'EXECUTABLE')],)
